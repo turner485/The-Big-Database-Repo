@@ -4,11 +4,14 @@
 This repository contains all the resources I have gathered to gain a deeper understanding of databases. From relational database management systems (RDBMS) to SQL and beyond, this repo is a work in progress that aims to cover various database-related topics. [WIP]
 
 ## Contents
-- [Relational Database Management Systems (RDBMS)](./RDBMS.md)  
+[Relational Database Management Systems (RDBMS)](./RDBMS.md)  
   Explore the core concepts of relational databases, their design, and management.
+
   
-- [Structured Query Language (SQL)](./SQL.md)  
+[Structured Query Language (SQL)](./SQL.md)  
   Learn the fundamentals of SQL, from basic queries to advanced database operations.
+
+[SQL vs NoSQL Databases](./)
 
 ## How to Use
 Each section in this repository focuses on a specific aspect of database technology. You can navigate through the individual topics by clicking the links above or exploring the directory tree.
