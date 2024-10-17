@@ -11,7 +11,8 @@ This repository contains all the resources I have gathered to gain a deeper unde
 [Structured Query Language (SQL)](./SQL.md)  
   Learn the fundamentals of SQL, from basic queries to advanced database operations.
 
-[SQL vs NoSQL Databases](./)
+[SQL vs NoSQL Databases](./SQL-VS-NOSQL.md)  
+Overview of SQL vs NOSQL
 
 ## How to Use
 Each section in this repository focuses on a specific aspect of database technology. You can navigate through the individual topics by clicking the links above or exploring the directory tree.
