@@ -14,6 +14,11 @@ Regardless of whether a SQL database is used to store transactions for a retaile
 #### Relational databases
 Relational databases, or relational database management systems (RDBMSs), store data within rows and columns which are used to form tables. A relationship between the two tables (or more) can be created using a foreign key. These foreign keys (e.g., unique identifiers) maintain predefined relationships that exist between the tables.
 
+#### Vertical Scaling 
+The vertical scaling approach, sometimes referred to as "scaling up," focuses on adding more resources or more processing power to a single machine. These additions may include CPU and RAM resources upgrades which will increase the processing speed of a single server or increase the storage capacity of a single machine to address increasing data requirements.
+
+One of the advantages of scaling vertically is that it is easier than the alternative horizontal scaling approach. Specifically, since hardware resources and/or computing resources are only being added to one machine, there is less complexity involved. 
+
 ### Not only Structured Query Language (NoSQL)
 #### What is NoSQL?
 NoSQL, which stands for Not only SQL, is a database management system approach used to ingest, store, and retrieve unstructured data and semi-structured data within a database. This means that data that cannot be analyzed or counted through traditional relational databases (e.g., SQL) can remain in its native format and be ingested into a NoSQL database. The reason it is called NoSQL is to emphasize that these databases can handle non-tabular, non-relational data models as well as support SQL-like query languages.
@@ -27,5 +32,10 @@ NoSQL databases are databases that utilize a flexible schema that accommodates u
 The use of a flexible schema enables NoSQL databases to ingest unstructured data in its native format (e.g., .txt, .JPG, MP3), which is not possible with SQL databases due to the requirement that all data align to a predefined format. Further, when NoSQL databases store data, flexible data models are employed so that unstructured data files can have different data structures and still be stored within the same 
 collection
 
+#### Horizontal Scaling
+the horizontal scaling approach, sometimes referred to as "scaling out," entails adding more machines to further distribute the load of the database and increase overall storage and/or processing power. There are two common ways to perform horizontal scaling — they include sharding, which increases the overall capacity of the system, and replication, which increases the availability and reliability of the system.
+
 Read more from the resource;  
-[https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql](https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql)
+[https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql](https://www.mongodb.com/resources/basics/databases/nosql-explained/nosql-vs-sql)  
+Watch youtube video  
+[https://www.youtube.com/watch?v=_Ss42Vb1SU4](https://www.youtube.com/watch?v=_Ss42Vb1SU4)
