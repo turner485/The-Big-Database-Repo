@@ -7,12 +7,13 @@ This repository contains all the resources I have gathered to gain a deeper unde
 [Relational Database Management Systems (RDBMS)](./RDBMS.md)  
   Explore the core concepts of relational databases, their design, and management.
 
-  
-[Structured Query Language (SQL)](./SQL.md)  
-  Learn the fundamentals of SQL, from basic queries to advanced database operations.
-
 [SQL vs NoSQL Databases](./SQL-VS-NOSQL.md)  
-Overview of SQL vs NOSQL
+
+[Data Definition Language (DDL](./DDL.md)
+
+[Data Manipulation Language (DML)](./DML.md)  
+
+[Structured Query Language (SQL)](./SQL.md)
 
 ## How to Use
 Each section in this repository focuses on a specific aspect of database technology. You can navigate through the individual topics by clicking the links above or exploring the directory tree.
