@@ -13,6 +13,8 @@ This repository contains all the resources I have gathered to gain a deeper unde
 
 [Data Manipulation Language (DML)](./DML.md)  
 
+[SQL Data Types](./Data-Types.md)  
+
 [Structured Query Language (SQL)](./SQL.md)
 
 ## How to Use
