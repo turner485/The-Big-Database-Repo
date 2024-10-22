@@ -15,7 +15,7 @@ This repository contains all the resources I have gathered to gain a deeper unde
 
 [SQL Data Types](./Data-Types.md)  
 
-[Structured Query Language (SQL)](./SQL.md)
+[Structured Query Language (SQL) Cheat Sheet](./SQL-Cheat-Sheet.md)
 
 ## How to Use
 Each section in this repository focuses on a specific aspect of database technology. You can navigate through the individual topics by clicking the links above or exploring the directory tree.
